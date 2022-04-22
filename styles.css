@@ -35,7 +35,9 @@ background-color: rgb(48,67,196);
 .textMargin{
   margin: 0 10rem;
 }
-
+/* .NewPadding{
+    margin-top: 3rem;
+} */
 .cardStyle{
     width: 20rem;
     margin-left: 5rem;
@@ -48,14 +50,26 @@ background-color: rgb(48,67,196);
     .textMargin{
         margin: 0rem;
       }
+    .secondSection
+    {
+    height: 240vh;
+    }
     .cardStyle{
         margin-left: 0rem;
     }
     .NewPadding{
-        padding-top:-5rem
+        padding-top:8rem
     }
     .img1{
-        height: 80%;
-        width: 80%;
+        height: 95%;
+        width: 90%;
+    }
+    .img2{
+        height: 85%;
+        width: 90%;
+    }
+    .ContactSection{
+        height: 300vh;
+        background-color: rgb(48,67,196); 
     }
  }
