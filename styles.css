@@ -31,3 +31,24 @@ background-color: rgb(48,67,196);
 .footer{
     color: rgb(48,67,196);   
 }
+
+.textMargin{
+  margin: 0 10rem;
+}
+
+
+.cardStyle{
+    width: 20rem;
+    margin-left: 5rem;
+}
+@media (max-width: 576px) { 
+    .textMargin{
+        margin: 0rem;
+      }
+    .cardStyle{
+        margin-left: 0rem;
+    }
+    .NewPadding{
+        padding-top:-10rem
+    }
+ }
