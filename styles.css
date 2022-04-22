@@ -52,7 +52,7 @@ background-color: rgb(48,67,196);
       }
     .secondSection
     {
-    height: 160vh;
+    height: 140vh;
     }
     .cardStyle{
         margin-left: 0rem;
@@ -69,7 +69,7 @@ background-color: rgb(48,67,196);
         width: 90%;
     }
     .ContactSection{
-        height: 200vh;
+        height: 180vh;
         background-color: rgb(48,67,196); 
     }
  }
